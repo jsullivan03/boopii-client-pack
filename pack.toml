@@ -1,0 +1,13 @@
+name = "Boopii Client"
+author = "Jack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "29ebe8e81aff6602280cc76ba4a05527929a520ad212241cfc1ae5ada7bf11dc"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.1.2"
