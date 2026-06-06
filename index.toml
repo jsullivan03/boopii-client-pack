@@ -77,3 +77,8 @@ metafile = true
 file = "mods/wi-zoom.pw.toml"
 hash = "38546e60796576a31e8668628e5b0bd083343f19af3dd4fa9d0e662ed075c3eb"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
