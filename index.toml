@@ -9,12 +9,8 @@ file = "config/DistantHorizons.toml"
 hash = "edf28395866fab6c6a17bead87fa5e428a5f4697029003b8b9bf8901024e29f2"
 
 [[files]]
-file = "config/defaultoptions/defaultoptions/options.txt"
-hash = "b4426592f80279620877e054ddbbf9acc9225801b7a3edaa0d6bf6cffc805a0e"
-
-[[files]]
 file = "config/defaultoptions/options.txt"
-hash = "661d4f141c1cb661f55caed5aa6ca23e71f62cbedf3e87c478d74ae3c5f6668d"
+hash = "b4426592f80279620877e054ddbbf9acc9225801b7a3edaa0d6bf6cffc805a0e"
 
 [[files]]
 file = "mods/balm.pw.toml"

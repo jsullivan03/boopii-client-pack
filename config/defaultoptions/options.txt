@@ -1,6 +1,6 @@
 version:4790
 ao:true
-biomeBlendRadius:2
+biomeBlendRadius:7
 chunkSectionFadeInTime:0.0
 cutoutLeaves:true
 enableVsync:false
@@ -21,15 +21,15 @@ gamma:0.5
 guiScale:3
 maxAnisotropyBit:1
 textureFiltering:1
-maxFps:120
+maxFps:240
 improvedTransparency:false
 inactivityFpsLimit:"afk"
 mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"false"
-cloudRange:64
+renderClouds:"true"
+cloudRange:128
 renderDistance:16
 simulationDistance:12
 screenEffectScale:1.0
@@ -59,7 +59,7 @@ sprintWindow:7
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
-mouseSensitivity:0.1542198503521126
+mouseSensitivity:0.11898107394366189
 damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
@@ -107,8 +107,8 @@ menuBackgroundBlurriness:5
 startedCleanly:true
 musicToast:"never"
 musicFrequency:"DEFAULT"
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.25146161009933776
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
