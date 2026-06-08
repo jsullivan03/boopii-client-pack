@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "04974299defc633f83c1c73c942a6009c44df268e15816b39bfa5b3d3c8e3def"
+hash = "edf28395866fab6c6a17bead87fa5e428a5f4697029003b8b9bf8901024e29f2"
 
 [[files]]
 file = "config/defaultoptions/defaultoptions/options.txt"
