@@ -18,6 +18,11 @@ hash = "a7549d639da1b91e6a4c921c2959436a78d58118f983fb89fd7ba99feebc4837"
 metafile = true
 
 [[files]]
+file = "mods/cardinalboats.pw.toml"
+hash = "e18a2b6830c0e3b9544e0f55e4a2177a8d4c4538d634af705af51e9f69f03e1b"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
@@ -45,6 +50,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "8623809fe6a60aa6b9ae6358bf2796742847e8641e1cc27bc3886484125ed6be"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
 
 [[files]]
